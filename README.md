@@ -20,5 +20,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### To view the project without downloading it, you can go to:
+See [Configuration Reference](https://thunderous-speculoos-8c57b1.netlify.app).
